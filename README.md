@@ -17,7 +17,7 @@
 class AbdulHaseeb:
     def __init__(self):
         self.name = "Shaik Abdul Haseeb"
-        self.role = "AI/ML Engineer & Full Stack Developer"
+        self.role = "Full Stack Developer"
         self.location = "India"
         self.education = "Computer Science Engineering"
         
@@ -32,7 +32,7 @@ class AbdulHaseeb:
     
     def tech_stack(self):
         return {
-            "languages": ["Python", "JavaScript", "Java", "C++"],
+            "languages": ["Python", "JavaScript"],
             "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV"],
             "web": ["React", "Node.js", "Express", "MongoDB"],
             "cloud": ["AWS", "Docker", "Kubernetes"],
